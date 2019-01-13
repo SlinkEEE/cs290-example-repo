@@ -1,0 +1,5 @@
+The address where we can access Node on Engineering Servers:
+http://flip3.engr.oregonstate.edu:8811/
+
+GitHub repository link:
+https://github.com/SlinkEEE/cs290-example-repo
